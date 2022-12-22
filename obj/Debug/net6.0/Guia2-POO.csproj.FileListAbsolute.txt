@@ -1,0 +1,15 @@
+D:\Capacitacion\Angular .net Devlights\Guia 2 - Clases\Guia2-POO\bin\Debug\net6.0\Guia2-POO.exe
+D:\Capacitacion\Angular .net Devlights\Guia 2 - Clases\Guia2-POO\bin\Debug\net6.0\Guia2-POO.deps.json
+D:\Capacitacion\Angular .net Devlights\Guia 2 - Clases\Guia2-POO\bin\Debug\net6.0\Guia2-POO.runtimeconfig.json
+D:\Capacitacion\Angular .net Devlights\Guia 2 - Clases\Guia2-POO\bin\Debug\net6.0\Guia2-POO.dll
+D:\Capacitacion\Angular .net Devlights\Guia 2 - Clases\Guia2-POO\bin\Debug\net6.0\ref\Guia2-POO.dll
+D:\Capacitacion\Angular .net Devlights\Guia 2 - Clases\Guia2-POO\bin\Debug\net6.0\Guia2-POO.pdb
+D:\Capacitacion\Angular .net Devlights\Guia 2 - Clases\Guia2-POO\obj\Debug\net6.0\Guia2-POO.csproj.AssemblyReference.cache
+D:\Capacitacion\Angular .net Devlights\Guia 2 - Clases\Guia2-POO\obj\Debug\net6.0\Guia2-POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capacitacion\Angular .net Devlights\Guia 2 - Clases\Guia2-POO\obj\Debug\net6.0\Guia2-POO.AssemblyInfoInputs.cache
+D:\Capacitacion\Angular .net Devlights\Guia 2 - Clases\Guia2-POO\obj\Debug\net6.0\Guia2-POO.AssemblyInfo.cs
+D:\Capacitacion\Angular .net Devlights\Guia 2 - Clases\Guia2-POO\obj\Debug\net6.0\Guia2-POO.csproj.CoreCompileInputs.cache
+D:\Capacitacion\Angular .net Devlights\Guia 2 - Clases\Guia2-POO\obj\Debug\net6.0\Guia2-POO.dll
+D:\Capacitacion\Angular .net Devlights\Guia 2 - Clases\Guia2-POO\obj\Debug\net6.0\ref\Guia2-POO.dll
+D:\Capacitacion\Angular .net Devlights\Guia 2 - Clases\Guia2-POO\obj\Debug\net6.0\Guia2-POO.pdb
+D:\Capacitacion\Angular .net Devlights\Guia 2 - Clases\Guia2-POO\obj\Debug\net6.0\Guia2-POO.genruntimeconfig.cache

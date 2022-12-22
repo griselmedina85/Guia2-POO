@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cb86fa19-e63b-4565-92c0-0a8a8b953942": {
+      "ProjectGuid": "cb86fa19-e63b-4565-92c0-0a8a8b953942",
+      "DisplayName": "Guia2-POO",
+      "ColorIndex": 0
+    },
+    "4da3d84e-c8b2-48f3-a617-408bd51197fc": {
+      "ProjectGuid": "4da3d84e-c8b2-48f3-a617-408bd51197fc",
+      "DisplayName": "clases",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
