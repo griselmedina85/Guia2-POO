@@ -8,9 +8,16 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "clases", "clases", "{4DA3D84E-C8B2-48F3-A617-408BD51197FC}"
 	ProjectSection(SolutionItems) = preProject
 		ejercicio1.cs = ejercicio1.cs
+		ejercicio10.cs = ejercicio10.cs
+		ejercicio11.cs = ejercicio11.cs
 		ejercicio2.cs = ejercicio2.cs
 		ejercicio3.cs = ejercicio3.cs
 		ejercicio4.cs = ejercicio4.cs
+		ejercicio5.cs = ejercicio5.cs
+		ejercicio6.cs = ejercicio6.cs
+		ejercicio7.cs = ejercicio7.cs
+		ejercicio8.cs = ejercicio8.cs
+		ejercicio9.cs = ejercicio9.cs
 	EndProjectSection
 EndProject
 Global
